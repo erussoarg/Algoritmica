@@ -10,3 +10,4 @@ El repositorio contendra todos los algoritmos vistos en la materia y las resoluc
 ## Contribuciones
 
 Generar un PR para introducir cambios al repositorio.
+Datos
